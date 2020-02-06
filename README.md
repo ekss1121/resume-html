@@ -1,1 +1,2 @@
-Resume purely built with HTML and CSS.
+## Resume purely built with HTML and CSS.
+![sample](./sample.png)
