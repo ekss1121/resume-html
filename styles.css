@@ -3,7 +3,8 @@
 }
 
 body {
-    font-family: 'Roboto Slab';
+    /* font-family: 'Roboto Slab'; */
+    font-family: 'Montserrat';
     font-size: 10.5pt;
 }
 
@@ -60,7 +61,6 @@ body {
     height: 1.5rem;
     background-color: lightgray;
     border-radius: 5px;
-    font-weight: 500;
     align-items: center;
 }
 
